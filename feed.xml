@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phil Thornley's photoblog - Photos of Manchester and beyond</title>
+    <description>A photoblog focusing on Long exposure, urban architecture and sometimes street photography by Phil Thornley</description>
+    <link>http://philthornley.com.jekyll:8888/</link>
+    <atom:link href="http://philthornley.com.jekyll:8888/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 07 Apr 2017 20:42:03 +0100</pubDate>
+    <lastBuildDate>Fri, 07 Apr 2017 20:42:03 +0100</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Trump tower</title>
+        <description>&lt;p&gt;This was done one handed whilst holding a baby!.&lt;/p&gt;
+
+&lt;p&gt;Make some test exposures without the ND filters to check what the correct unfiltered exposure is. The problem here is often that the dynamic range of the scene is naturally high: you are pointing the camera skywards, and the building will be much darker than the sky. So you need a base unfiltered exposure which that retains detail both in the sky and also in the buildings. If the contrast in the scene is too high, it may be necessary to make multiple exposures and blend them in post-processing (i.e. long-exposure HDR), as adding a graduated ND filter – assuming you own one – is unlikely to be able to do the job for you here, and you will have enough ND filters in front of your lens already. &lt;/p&gt;
+
+&lt;p&gt;Fortunately, since the building is not moving, only the exposure of the sky needs to be a long exposure; the exposure for the building can be a regular unfiltered exposure. Using the camera histogram is essential, in conjunction with the ‘blinkies’ (the blinking highlight display showing you areas of blown highlights in your image when reviewing images on the camera in playback mode). Use the technique of ‘exposing to the right’ to maximize detail in the image and minimize noise without blowing out areas of the sky. &lt;/p&gt;
+
+&lt;p&gt;It will definitely help to shoot images in raw format if your camera offers this option, since you will be able to capture a larger dynamic range of brightness in raw. Bear in mind also that the in-camera histogram and the ‘blinkies’ are both based on an 8-bit JPG file created by the camera from the raw file, not the raw file itself. As such, both may indicate areas of blown highlights which may not actually be blown once you view the raw file during post-processing. Experimenting with your camera to see how much of these putative blown highlights you can recover in post will help you to learn how far you can push the exposure to the right before the highlights are really blown and unrecoverable. Also, if your camera supports it, check the RGB histogram for the individual colour channels (red, green and blue), rather than just checking the histogram for the three colour channels combined. The reason is that the combined-channel histogram represents an average, and it could easily occur that one colour channel is seriously over-exposed while the other two are not. In the case of the sky, it is the blue channel which is likely to blow first.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Feb 2017 18:24:04 +0000</pubDate>
+        <link>http://philthornley.com.jekyll:8888/places/trump-tower/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/trump-tower/</guid>
+        
+        <category>colour</category>
+        
+        <category>anglesey</category>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>Sheep</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. &lt;/p&gt;
+
+&lt;p&gt;Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Feb 2017 18:24:04 +0000</pubDate>
+        <link>http://philthornley.com.jekyll:8888/personal/sheep/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/personal/sheep/</guid>
+        
+        <category>b+w</category>
+        
+        <category>anglesey</category>
+        
+        
+        <category>personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Navy Pier, Chicago, USA</title>
+        <description></description>
+        <pubDate>Sat, 17 Dec 2016 18:24:04 +0000</pubDate>
+        <link>http://philthornley.com.jekyll:8888/places/navy-pier/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/navy-pier/</guid>
+        
+        <category>b+w</category>
+        
+        <category>USA</category>
+        
+        <category>Chicago</category>
+        
+        <category>Square</category>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>John Hancock, Chicago, USA</title>
+        <description></description>
+        <pubDate>Sat, 17 Dec 2016 18:24:04 +0000</pubDate>
+        <link>http://philthornley.com.jekyll:8888/places/john-hancock/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/john-hancock/</guid>
+        
+        <category>b+w</category>
+        
+        <category>USA</category>
+        
+        <category>Chicago</category>
+        
+        <category>Square</category>
+        
+        <category>Architecture</category>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>The Bean, Chicago, USA</title>
+        <description></description>
+        <pubDate>Mon, 12 Dec 2016 18:24:04 +0000</pubDate>
+        <link>http://philthornley.com.jekyll:8888/places/the-bean/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/the-bean/</guid>
+        
+        <category>b+w</category>
+        
+        <category>USA</category>
+        
+        <category>Chicago</category>
+        
+        <category>Grand Canyon</category>
+        
+        <category>places</category>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>Return to Anglesey</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. &lt;/p&gt;
+
+&lt;p&gt;Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Sep 2016 19:24:04 +0100</pubDate>
+        <link>http://philthornley.com.jekyll:8888/personal/return-to-anglesey/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/personal/return-to-anglesey/</guid>
+        
+        <category>b+w</category>
+        
+        <category>anglesey</category>
+        
+        <category>personal</category>
+        
+        
+        <category>personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Benllech Beach - one handed whilst holding a baby</title>
+        <description>&lt;p&gt;This was done one handed whilst holding a baby!.&lt;/p&gt;
+
+&lt;p&gt;Make some test exposures without the ND filters to check what the correct unfiltered exposure is. The problem here is often that the dynamic range of the scene is naturally high: you are pointing the camera skywards, and the building will be much darker than the sky. So you need a base unfiltered exposure which that retains detail both in the sky and also in the buildings. If the contrast in the scene is too high, it may be necessary to make multiple exposures and blend them in post-processing (i.e. long-exposure HDR), as adding a graduated ND filter – assuming you own one – is unlikely to be able to do the job for you here, and you will have enough ND filters in front of your lens already. &lt;/p&gt;
+
+&lt;p&gt;Fortunately, since the building is not moving, only the exposure of the sky needs to be a long exposure; the exposure for the building can be a regular unfiltered exposure. Using the camera histogram is essential, in conjunction with the ‘blinkies’ (the blinking highlight display showing you areas of blown highlights in your image when reviewing images on the camera in playback mode). Use the technique of ‘exposing to the right’ to maximize detail in the image and minimize noise without blowing out areas of the sky. &lt;/p&gt;
+
+&lt;p&gt;It will definitely help to shoot images in raw format if your camera offers this option, since you will be able to capture a larger dynamic range of brightness in raw. Bear in mind also that the in-camera histogram and the ‘blinkies’ are both based on an 8-bit JPG file created by the camera from the raw file, not the raw file itself. As such, both may indicate areas of blown highlights which may not actually be blown once you view the raw file during post-processing. Experimenting with your camera to see how much of these putative blown highlights you can recover in post will help you to learn how far you can push the exposure to the right before the highlights are really blown and unrecoverable. Also, if your camera supports it, check the RGB histogram for the individual colour channels (red, green and blue), rather than just checking the histogram for the three colour channels combined. The reason is that the combined-channel histogram represents an average, and it could easily occur that one colour channel is seriously over-exposed while the other two are not. In the case of the sky, it is the blue channel which is likely to blow first.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Sep 2016 19:24:04 +0100</pubDate>
+        <link>http://philthornley.com.jekyll:8888/places/benllech-beach/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/benllech-beach/</guid>
+        
+        <category>colour</category>
+        
+        <category>anglesey</category>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>Grand Canyon at Sunset</title>
+        <description></description>
+        <pubDate>Wed, 05 Sep 2012 19:24:04 +0100</pubDate>
+        <link>http://philthornley.com.jekyll:8888/places/gand-canyon-dawn-1/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/gand-canyon-dawn-1/</guid>
+        
+        <category>colour</category>
+        
+        <category>USA</category>
+        
+        <category>Vegas</category>
+        
+        <category>Grand Canyon</category>
+        
+        <category>places</category>
+        
+        <category>b+w</category>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>Paris hotel, Vegas</title>
+        <description></description>
+        <pubDate>Wed, 05 Sep 2012 19:24:04 +0100</pubDate>
+        <link>http://philthornley.com.jekyll:8888/places/vegas-paris-hotel/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/vegas-paris-hotel/</guid>
+        
+        <category>colour</category>
+        
+        <category>USA</category>
+        
+        <category>Vegas</category>
+        
+        <category>b+w</category>
+        
+        <category>black and wihte</category>
+        
+        <category>contemporary</category>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>Jaipur</title>
+        <description>&lt;p&gt;This is the content about Jaipur&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Sep 2012 19:24:04 +0100</pubDate>
+        <link>http://philthornley.com.jekyll:8888/places/jaipur/</link>
+        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/jaipur/</guid>
+        
+        <category>colour</category>
+        
+        <category>india</category>
+        
+        
+        <category>places</category>
+        
+      </item>
+    
+  </channel>
+</rss>
