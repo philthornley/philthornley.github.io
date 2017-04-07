@@ -3,10 +3,10 @@
   <channel>
     <title>Phil Thornley's photoblog - Photos of Manchester and beyond</title>
     <description>A photoblog focusing on Long exposure, urban architecture and sometimes street photography by Phil Thornley</description>
-    <link>http://philthornley.com.jekyll:8888/</link>
-    <atom:link href="http://philthornley.com.jekyll:8888/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Apr 2017 20:42:03 +0100</pubDate>
-    <lastBuildDate>Fri, 07 Apr 2017 20:42:03 +0100</lastBuildDate>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 07 Apr 2017 22:39:21 +0100</pubDate>
+    <lastBuildDate>Fri, 07 Apr 2017 22:39:21 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;p&gt;It will definitely help to shoot images in raw format if your camera offers this option, since you will be able to capture a larger dynamic range of brightness in raw. Bear in mind also that the in-camera histogram and the ‘blinkies’ are both based on an 8-bit JPG file created by the camera from the raw file, not the raw file itself. As such, both may indicate areas of blown highlights which may not actually be blown once you view the raw file during post-processing. Experimenting with your camera to see how much of these putative blown highlights you can recover in post will help you to learn how far you can push the exposure to the right before the highlights are really blown and unrecoverable. Also, if your camera supports it, check the RGB histogram for the individual colour channels (red, green and blue), rather than just checking the histogram for the three colour channels combined. The reason is that the combined-channel histogram represents an average, and it could easily occur that one colour channel is seriously over-exposed while the other two are not. In the case of the sky, it is the blue channel which is likely to blow first.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Feb 2017 18:24:04 +0000</pubDate>
-        <link>http://philthornley.com.jekyll:8888/places/trump-tower/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/trump-tower/</guid>
+        <link>//places/trump-tower/</link>
+        <guid isPermaLink="true">//places/trump-tower/</guid>
         
         <category>colour</category>
         
@@ -39,8 +39,8 @@
 &lt;p&gt;Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Feb 2017 18:24:04 +0000</pubDate>
-        <link>http://philthornley.com.jekyll:8888/personal/sheep/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/personal/sheep/</guid>
+        <link>//personal/sheep/</link>
+        <guid isPermaLink="true">//personal/sheep/</guid>
         
         <category>b+w</category>
         
@@ -55,8 +55,8 @@
         <title>Navy Pier, Chicago, USA</title>
         <description></description>
         <pubDate>Sat, 17 Dec 2016 18:24:04 +0000</pubDate>
-        <link>http://philthornley.com.jekyll:8888/places/navy-pier/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/navy-pier/</guid>
+        <link>//places/navy-pier/</link>
+        <guid isPermaLink="true">//places/navy-pier/</guid>
         
         <category>b+w</category>
         
@@ -75,8 +75,8 @@
         <title>John Hancock, Chicago, USA</title>
         <description></description>
         <pubDate>Sat, 17 Dec 2016 18:24:04 +0000</pubDate>
-        <link>http://philthornley.com.jekyll:8888/places/john-hancock/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/john-hancock/</guid>
+        <link>//places/john-hancock/</link>
+        <guid isPermaLink="true">//places/john-hancock/</guid>
         
         <category>b+w</category>
         
@@ -97,8 +97,8 @@
         <title>The Bean, Chicago, USA</title>
         <description></description>
         <pubDate>Mon, 12 Dec 2016 18:24:04 +0000</pubDate>
-        <link>http://philthornley.com.jekyll:8888/places/the-bean/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/the-bean/</guid>
+        <link>//places/the-bean/</link>
+        <guid isPermaLink="true">//places/the-bean/</guid>
         
         <category>b+w</category>
         
@@ -122,8 +122,8 @@
 &lt;p&gt;Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 Sep 2016 19:24:04 +0100</pubDate>
-        <link>http://philthornley.com.jekyll:8888/personal/return-to-anglesey/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/personal/return-to-anglesey/</guid>
+        <link>//personal/return-to-anglesey/</link>
+        <guid isPermaLink="true">//personal/return-to-anglesey/</guid>
         
         <category>b+w</category>
         
@@ -147,8 +147,8 @@
 &lt;p&gt;It will definitely help to shoot images in raw format if your camera offers this option, since you will be able to capture a larger dynamic range of brightness in raw. Bear in mind also that the in-camera histogram and the ‘blinkies’ are both based on an 8-bit JPG file created by the camera from the raw file, not the raw file itself. As such, both may indicate areas of blown highlights which may not actually be blown once you view the raw file during post-processing. Experimenting with your camera to see how much of these putative blown highlights you can recover in post will help you to learn how far you can push the exposure to the right before the highlights are really blown and unrecoverable. Also, if your camera supports it, check the RGB histogram for the individual colour channels (red, green and blue), rather than just checking the histogram for the three colour channels combined. The reason is that the combined-channel histogram represents an average, and it could easily occur that one colour channel is seriously over-exposed while the other two are not. In the case of the sky, it is the blue channel which is likely to blow first.&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Sep 2016 19:24:04 +0100</pubDate>
-        <link>http://philthornley.com.jekyll:8888/places/benllech-beach/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/benllech-beach/</guid>
+        <link>//places/benllech-beach/</link>
+        <guid isPermaLink="true">//places/benllech-beach/</guid>
         
         <category>colour</category>
         
@@ -163,8 +163,8 @@
         <title>Grand Canyon at Sunset</title>
         <description></description>
         <pubDate>Wed, 05 Sep 2012 19:24:04 +0100</pubDate>
-        <link>http://philthornley.com.jekyll:8888/places/gand-canyon-dawn-1/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/gand-canyon-dawn-1/</guid>
+        <link>//places/gand-canyon-dawn-1/</link>
+        <guid isPermaLink="true">//places/gand-canyon-dawn-1/</guid>
         
         <category>colour</category>
         
@@ -187,8 +187,8 @@
         <title>Paris hotel, Vegas</title>
         <description></description>
         <pubDate>Wed, 05 Sep 2012 19:24:04 +0100</pubDate>
-        <link>http://philthornley.com.jekyll:8888/places/vegas-paris-hotel/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/vegas-paris-hotel/</guid>
+        <link>//places/vegas-paris-hotel/</link>
+        <guid isPermaLink="true">//places/vegas-paris-hotel/</guid>
         
         <category>colour</category>
         
@@ -212,8 +212,8 @@
         <description>&lt;p&gt;This is the content about Jaipur&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Sep 2012 19:24:04 +0100</pubDate>
-        <link>http://philthornley.com.jekyll:8888/places/jaipur/</link>
-        <guid isPermaLink="true">http://philthornley.com.jekyll:8888/places/jaipur/</guid>
+        <link>//places/jaipur/</link>
+        <guid isPermaLink="true">//places/jaipur/</guid>
         
         <category>colour</category>
         
