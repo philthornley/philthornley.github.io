@@ -23,6 +23,7 @@ group :jekyll_plugins do
 	gem 'jekyll-picture-tag'
 	gem 'jekyll-contentblocks'
 	#gem 'jekyll-srcset'
+	gem 'jekyll-minimagick'
 end
 
 

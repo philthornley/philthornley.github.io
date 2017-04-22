@@ -3,18 +3,22 @@
   <channel>
     <title>Phil Thornley's photoblog - Photos of Manchester and beyond</title>
     <description>A photoblog focusing on Long exposure, urban architecture and sometimes street photography by Phil Thornley</description>
-    <link>https://www.philthornley.co.uk/</link>
-    <atom:link href="https://www.philthornley.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Apr 2017 21:34:58 +0100</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2017 21:34:58 +0100</lastBuildDate>
+    <link>http://www.philthornley.co.uk/</link>
+    <atom:link href="http://www.philthornley.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Apr 2017 13:45:03 +0100</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2017 13:45:03 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
+        
       <item>
         <title>Gas Towers II, Manchester</title>
         <description></description>
         <pubDate>Sat, 25 Mar 2017 18:26:04 +0000</pubDate>
-        <link>https://www.philthornley.co.uk/places/manchester-gas-works-II/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/manchester-gas-works-II/</guid>
+        <link>http://www.philthornley.co.uk/places/manchester-gas-works-II/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/manchester-gas-works-II/"><img src="http://www.philthornley.co.uk/images/optimised-output/2017-03-25-manchester-gas-works-II-600.jpg" alt="Gas Towers II, Manchester" title="Gas Towers II, Manchester" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/manchester-gas-works-II/</guid>
         
         <category>b+w</category>
         
@@ -31,12 +35,16 @@
         
       </item>
     
+        
       <item>
         <title>Gas Towers, Manchester</title>
         <description></description>
         <pubDate>Sat, 25 Mar 2017 18:24:04 +0000</pubDate>
-        <link>https://www.philthornley.co.uk/places/manchester-gas-works/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/manchester-gas-works/</guid>
+        <link>http://www.philthornley.co.uk/places/manchester-gas-works/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/manchester-gas-works/"><img src="http://www.philthornley.co.uk/images/optimised-output/2017-03-25-manchester-gas-works-600.jpg" alt="Gas Towers, Manchester" title="Gas Towers, Manchester" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/manchester-gas-works/</guid>
         
         <category>b+w</category>
         
@@ -53,12 +61,16 @@
         
       </item>
     
+        
       <item>
         <title>Manchester Reflections II</title>
         <description></description>
         <pubDate>Mon, 20 Mar 2017 18:24:04 +0000</pubDate>
-        <link>https://www.philthornley.co.uk/places/manchester-reflections-II/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/manchester-reflections-II/</guid>
+        <link>http://www.philthornley.co.uk/places/manchester-reflections-II/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/manchester-reflections-II/"><img src="http://www.philthornley.co.uk/images/optimised-output/2017-03-20-manchester-reflections-600.jpg" alt="Manchester Reflections II" title="Manchester Reflections II" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/manchester-reflections-II/</guid>
         
         <category>b+w</category>
         
@@ -75,12 +87,16 @@
         
       </item>
     
+        
       <item>
         <title>Manchester Reflections</title>
         <description></description>
         <pubDate>Fri, 17 Mar 2017 18:24:04 +0000</pubDate>
-        <link>https://www.philthornley.co.uk/places/manchester-reflections/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/manchester-reflections/</guid>
+        <link>http://www.philthornley.co.uk/places/manchester-reflections/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/manchester-reflections/"><img src="http://www.philthornley.co.uk/images/optimised-output/2017-03-17-manchester-reflections-600.jpg" alt="Manchester Reflections" title="Manchester Reflections" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/manchester-reflections/</guid>
         
         <category>b+w</category>
         
@@ -97,12 +113,16 @@
         
       </item>
     
+        
       <item>
         <title>Sunset, Pensarn, Wales II</title>
         <description></description>
         <pubDate>Thu, 29 Dec 2016 18:25:04 +0000</pubDate>
-        <link>https://www.philthornley.co.uk/places/abergele-pensarn-beach-II/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/abergele-pensarn-beach-II/</guid>
+        <link>http://www.philthornley.co.uk/places/abergele-pensarn-beach-II/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/abergele-pensarn-beach-II/"><img src="http://www.philthornley.co.uk/images/optimised-output/2016-12-29-abergele-pensarn-beach-II-square-600.jpg" alt="Sunset, Pensarn, Wales II" title="Sunset, Pensarn, Wales II" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/abergele-pensarn-beach-II/</guid>
         
         <category>colour</category>
         
@@ -117,12 +137,16 @@
         
       </item>
     
+        
       <item>
         <title>Sunset, Pensarn, Wales</title>
         <description></description>
         <pubDate>Thu, 29 Dec 2016 18:24:04 +0000</pubDate>
-        <link>https://www.philthornley.co.uk/places/abergele-pensarn-beach/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/abergele-pensarn-beach/</guid>
+        <link>http://www.philthornley.co.uk/places/abergele-pensarn-beach/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/abergele-pensarn-beach/"><img src="http://www.philthornley.co.uk/images/optimised-output/2016-12-29-abergele-pensarn-beach-600.jpg" alt="Sunset, Pensarn, Wales" title="Sunset, Pensarn, Wales" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/abergele-pensarn-beach/</guid>
         
         <category>colour</category>
         
@@ -137,12 +161,16 @@
         
       </item>
     
+        
       <item>
         <title>Navy Pier, Chicago, USA</title>
         <description></description>
         <pubDate>Sat, 17 Dec 2016 18:24:04 +0000</pubDate>
-        <link>https://www.philthornley.co.uk/places/navy-pier/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/navy-pier/</guid>
+        <link>http://www.philthornley.co.uk/places/navy-pier/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/navy-pier/"><img src="http://www.philthornley.co.uk/images/optimised-output/2016-12-chicago-navy-pier-600.jpg" alt="Navy Pier, Chicago, USA" title="Navy Pier, Chicago, USA" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/navy-pier/</guid>
         
         <category>b+w</category>
         
@@ -159,12 +187,16 @@
         
       </item>
     
+        
       <item>
         <title>John Hancock, Chicago, USA</title>
         <description></description>
         <pubDate>Sat, 17 Dec 2016 18:24:04 +0000</pubDate>
-        <link>https://www.philthornley.co.uk/places/john-hancock/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/john-hancock/</guid>
+        <link>http://www.philthornley.co.uk/places/john-hancock/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/john-hancock/"><img src="http://www.philthornley.co.uk/images/optimised-output/2016-12-chicago-john-hancock-600.jpg" alt="John Hancock, Chicago, USA" title="John Hancock, Chicago, USA" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/john-hancock/</guid>
         
         <category>b+w</category>
         
@@ -181,12 +213,16 @@
         
       </item>
     
+        
       <item>
         <title>The Bean, Chicago, USA</title>
         <description></description>
         <pubDate>Mon, 12 Dec 2016 18:24:04 +0000</pubDate>
-        <link>https://www.philthornley.co.uk/places/the-bean/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/the-bean/</guid>
+        <link>http://www.philthornley.co.uk/places/the-bean/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/the-bean/"><img src="http://www.philthornley.co.uk/images/optimised-output/the-bean-600.jpg" alt="The Bean, Chicago, USA" title="The Bean, Chicago, USA" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/the-bean/</guid>
         
         <category>b+w</category>
         
@@ -203,13 +239,17 @@
         
       </item>
     
+        
       <item>
         <title>Sunset, Malaysia</title>
         <description>&lt;p class=&quot;center&quot;&gt;Possibly upside down. Either way, it looks surreal.&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Apr 2015 19:25:04 +0100</pubDate>
-        <link>https://www.philthornley.co.uk/places/malaysia-sunset/</link>
-        <guid isPermaLink="true">https://www.philthornley.co.uk/places/malaysia-sunset/</guid>
+        <link>http://www.philthornley.co.uk/places/malaysia-sunset/</link>
+        <content type="html">
+            <a href="http://www.philthornley.co.uk/places/malaysia-sunset/"><img src="http://www.philthornley.co.uk/images/optimised-output/2015-04-02-malaysia-sunset-600.jpg" alt="Sunset, Malaysia" title="Sunset, Malaysia" /></a>
+        </content>
+        <guid isPermaLink="true">http://www.philthornley.co.uk/places/malaysia-sunset/</guid>
         
         <category>colour</category>
         
