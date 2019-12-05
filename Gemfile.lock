@@ -6,7 +6,7 @@ GEM
     colorator (1.1.0)
     fastimage (1.6.8)
       addressable (~> 2.3, >= 2.3.5)
-    ffi (1.9.18)
+    ffi (1.11.3)
     forwardable-extended (2.6.0)
     jekyll (3.2.1)
       colorator (~> 1.0)
